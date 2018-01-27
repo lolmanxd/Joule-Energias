@@ -174,7 +174,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var m = el && (el.matches || el.webkitMatchesSelector || el.mozMatchesSelector || el.msMatchesSelector || el.oMatchesSelector);
     return !!m && m.call(el, selector);
   }
-
+    
   function getCompareFunction(selector) {
     return (
       /* Use browser's `matches` function if string */
