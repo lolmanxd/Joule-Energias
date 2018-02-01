@@ -9,3 +9,22 @@
 .logo-joule {
     height: 4rem
 }
+
+.scroll {
+    width: 100%; 
+    height: 15rem; 
+    overflow:auto
+}
+
+.image-project {
+    width: 214%; 
+    height:26.65em
+}
+
+.my-card-desktop {
+    /*na mesma div, colocar a class 'z-depth-2'*/
+    border-radius: 2px; 
+    width: 100%; 
+    height: 399px; 
+    margin-top: 3%
+}
