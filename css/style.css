@@ -12,19 +12,39 @@
 
 .scroll {
     width: 100%; 
-    height: 15rem; 
+    height: 20em; 
     overflow:auto
 }
 
-.image-project {
-    width: 214%; 
-    height:26.65em
+.scroll-mobile {
+    width: 100%; 
+    height: 8em; 
+    overflow:auto
 }
 
-.my-card-desktop {
+.my-card {
     /*na mesma div, colocar a class 'z-depth-2'*/
     border-radius: 2px; 
     width: 100%; 
-    height: 399px; 
-    margin-top: 3%
+    margin-top: 3%;
+    overflow: hidden
+}
+
+.desktop {
+    height: 34em; 
+}
+
+.tablet {
+    height: 29em; 
+}
+
+.mobile {
+    height: 40em; 
+}
+
+.left-card {
+    background-color: white
+}
+
+.slide {
 }
