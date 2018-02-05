@@ -46,5 +46,12 @@
     background-color: white
 }
 
-.slide {
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.img-play-store {
+    width: 50%;
+    height: 20%
 }
