@@ -51,7 +51,16 @@
     text-justify: inter-word;
 }
 
-.img-play-store {
+.img-play-store-voce {
     width: 50%;
     height: 20%
+}
+
+.img-play-store-contato {
+    width: 20%;
+    height: 7%
+}
+
+.nossos-dados{
+    font-size: 22px
 }
