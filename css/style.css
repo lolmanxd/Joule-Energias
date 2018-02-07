@@ -104,3 +104,9 @@
 .fundo {
     background: #e1f7e8
 }
+
+.msg-arvore {
+    margin-top:30%; 
+    color: white;
+    font-size: 22px;
+}

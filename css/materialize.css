@@ -116,6 +116,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    height:50em;
 }
 
 .red-text.text-lighten-3 {
@@ -4451,9 +4452,10 @@ nav .input-field label.active i {
 }
 
 .navbar-fixed {
-  position: relative;
-  height: 56px;
-  z-index: 997;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  position: fixed !important;
 }
 
 .navbar-fixed nav {
