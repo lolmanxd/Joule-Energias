@@ -55,7 +55,18 @@
                     <p>
                         <strong>App Papo Solar</strong> 
                     </p>
-                    <a onclick="alert('O app está em construção...');"><img src="imgs/img_play_store.png" class="img-play-store-contato"  alt="Link para playstore"></a>
+                                        <!-- Modal Trigger -->
+                    <a class="modal-trigger" href="#modal1"><img src="imgs/img_play_store.png" class="img-play-store-contato"  alt="Link para playstore"></a>
+                                        <!-- Modal Structure -->
+                    <div id="modal1" class="modal">
+                        <div class="modal-content">
+                            <h4>Em breve</h4>
+                            <p>O app está sendo construído...</p>
+                        </div>
+                        <div class="modal-footer">
+                            <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Ok</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -95,6 +106,10 @@
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>
         <script type="text/javascript" src="js/init.js"></script>
-        
+        <script>
+            $(document).ready(function(){
+              $('.modal').modal();
+            });
+        </script>
     </body>
 </html>
