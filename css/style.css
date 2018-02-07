@@ -33,7 +33,7 @@
     border-radius: 2px; 
     width: 100%; 
     margin-top: 3%;
-    overflow: hidden
+    overflow: hidden;
 }
 
 .desktop {
@@ -95,4 +95,12 @@
     width: 80%;
     height: 20em;
     border-color: white
+}
+
+.link-footer  {
+    color: #e1f7e8
+}
+
+.fundo {
+    background: #e1f7e8
 }
