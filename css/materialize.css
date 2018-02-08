@@ -111,12 +111,20 @@
   background-color: #EF9A9A !important;
 }
 
-.fundo-home{
+.fundo-home-desktop{
     background-image: url(../imgs/bg2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height:50em;
+    height:55em;
+}
+
+.fundo-home-tablet-mobile{
+    background-image: url(../imgs/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:45em;
 }
 
 .red-text.text-lighten-3 {
