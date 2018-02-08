@@ -30,7 +30,7 @@
 
 .my-card {
     /*na mesma div, colocar a class 'z-depth-2'*/
-    border-radius: 2px; 
+    border-radius: 5px; 
     width: 100%; 
     margin-top: 3%;
     overflow: hidden;
