@@ -1,6 +1,10 @@
 <?php 
-$email = (isset($_POST['email'])) ? $_POST['id'] : "emailembranco@hotmail.com";
-$consumoMensal = (isset($_POST['consumoMensal'])) ? $_POST['consumoMensal'] : 0;
+
+if(isset($_POST['enviar']) ){
+
+if(($_POST['email'] != '' && $_POST['consumoMensal'] != '') ){
+$email = ($_POST['email']);
+$consumoMensal = ($_POST['consumoMensal']);
     
 $arquivo= "<style type='text/css'>
   body {
@@ -43,5 +47,11 @@ $headers  = 'MIME-Version: 1.0' . "\r\n";
   //$headers .= "Bcc: $EmailPadrao\r\n";
 
 $enviarEmail = mail($destino, $assunto, $arquivo, $headers);
-
+}
+else{ ?>
+<script>
+    alert("Preencha os dados corretamente");
+</script>
+<?php }
+}
 ?>
