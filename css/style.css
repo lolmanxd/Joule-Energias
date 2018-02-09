@@ -1,5 +1,5 @@
 .color-joule {
-    background-color: #FBEAC2 !important;
+    background-color: #fff8ea !important;
 }
 
 .gray {
@@ -71,15 +71,14 @@
     font-size: 22px
 }
 
-.my-border{
+.my-card-empresa{
     border-radius: 5px;
-    height: 100%;
     margin-left: 1%;
     margin-right: 1%;
     padding-top: 1%;
     padding-left: 0.5%;
     padding-right: 0.5%;
-    height: 50em
+    height: 35em
 }
 
 .margin-bottom{
