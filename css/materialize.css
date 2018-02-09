@@ -2947,14 +2947,14 @@ ul.staggered-list li {
 }
 
 .page-footer {
-  height: 12.7em;
+  height: 8em;
   color: #fff;
-  background-color: #ee6e73;
+  line-height: 0.65em;
 }
 
 .page-footer .footer-copyright {
   overflow: hidden;
-  height: 2.5em;
+  height: 2em;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;

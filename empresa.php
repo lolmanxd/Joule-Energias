@@ -55,13 +55,13 @@
                     <p class="margemBot">Estruturada em 2012, nasceu em 2017 com a missão ajudar a despoluir o mundo através da engenharia aplicada a fontes de geração de energia elétrica por fontes renováveis.</p>
                     
                     <h5>Missão</h5>
-                    <p class="margemBot">Levar satisfação plena ao cliente através do ótimo serviço oferecido pela qualificada equipe que possui. Intermedia uma ponte entre as tecnologias desenvolvidas nos centros cientificos e as aplicações reais.</p>
+                    <p class="margemBot">Poupar 10.000 árvores até 2030.</p>
                     
                     <h5>Valores</h5>
                     <p class="margemBot">Responsabilidade social, sustentabilidade ambiental e prioridade da vida humana.</p>
                     
                     <h5>Visão</h5>
-                    <p class="margemBot">Poupar 10.000 árvores até 2030</p>
+                    <p class="margemBot">Levar satisfação plena ao cliente através do ótimo serviço oferecido pela qualificada equipe que possui. Intermedia uma ponte entre as tecnologias desenvolvidas nos centros cientificos e as aplicações reais.</p>
                 
                 </div>
         </div>
@@ -113,12 +113,10 @@
         
         <footer class="page-footer gray">
             <div class="container">
-                <div class="row">
                 <div class="col s12 center">
                     <h5 class="white-text">Joule Energias</h5>
                     <p class="grey-text text-lighten-4">Energizando sua vida!</p>
                     <p>© 2018 Copyright Text</p>
-                </div>
                 </div>
             </div>
             <div class="footer-copyright">

@@ -39,34 +39,26 @@
                             <li><a href="voce.php" class="black-text">+Você</a></li>
                             <li><a href="contato.php" class="black-text">Contato</a></li>
                         </ul>
-                        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><img style="padding-top:40%" src="imgs/menu.png" alt="icone menu"></a>
                     </div>
                 </nav>
             </div>
-        <?php  
-        include('salveArvore.php'); 
         
-        $salvou = arvoresSalvas();
-        
-        ?>
         <!-- CONTENT -->
         <!-- desktop -->
         <div style="height:2em"></div>
-        <div class="center hide-on-med-and-down" style="width: 100%; height:45em; ">
+        <div class="center hide-on-med-and-down" style="width: 100%; height:44.4em; ">
             <img src="imgs/bg-home.jpeg" style="width: 100%; height: 45em; margin-top: 2%" alt="Image home">
-            <label style="color: #0a3819; position: absolute; top: 85%; left: 28%; font-size: 40px;">Já poupamos <strong><?php echo ("$salvou"); ?></strong> árvores para você!</label>
         </div>
 
         <!-- tablet -->
         <div class="center hide-on-large-only hide-on-small-only" style="width: 100%; height:45em;">
             <img src="imgs/bg-home.jpeg" style="width: 100%; height: 45.5em; margin-top: 2%" alt="Image home">
-            <label style="color: #0a3819; position: absolute; top: 80%; left: 20%; font-size: 35px;">Já poupamos <strong><?php echo ("$salvou"); ?></strong> árvores para você!</label>
         </div>
 
         <!-- mobile -->
         <div class="center hide-on-med-and-up" style="width: 100%; height:44.8em; margin-top:2.5%">
             <img src="imgs/bg-home.jpeg" style="width: 100%; height: 45em; margin-top: 5%" alt="Image home">
-            <label style="color: #0a3819; position: absolute; top: 77%; left: 0%; font-size: 25px;">Já poupamos <strong><?php echo ("$salvou"); ?></strong> árvores para você!</label>
         </div>
         
         <br>
@@ -74,12 +66,10 @@
 
         <footer class="page-footer gray">
             <div class="container">
-                <div class="row">
                 <div class="col s12 center">
                     <h5 class="white-text">Joule Energias</h5>
                     <p class="grey-text text-lighten-4">Energizando sua vida!</p>
                     <p>© 2018 Copyright Text</p>
-                </div>
                 </div>
             </div>
             <div class="footer-copyright">

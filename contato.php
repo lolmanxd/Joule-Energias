@@ -25,18 +25,18 @@
                         <a href="index.php"><img class="logo-joule brand-logo" src="imgs/Joule_logo.png" alt="Joule Energias logo"></a>
                         <ul class="right hide-on-med-and-down">
                             <li><a href="index.php" class="black-text">Início</a></li>
-                            <li><a href="empresa.html" class="black-text">Empresa</a></li>
-                            <li><a href="nossasRealizacoes.html" class="black-text">Nossas Realizações</a></li>
+                            <li><a href="empresa.php" class="black-text">Empresa</a></li>
+                            <li><a href="nossasRealizacoes.php" class="black-text">Nossas Realizações</a></li>
                             <li><a href="voce.php" class="black-text">+Você</a></li>
-                            <li class="active"><a href="contato.html" class="black-text">Contato</a></li>
+                            <li class="active"><a href="contato.php" class="black-text">Contato</a></li>
                         </ul>
                         
                         <ul id="nav-mobile" class="sidenav">
                             <li><a href="index.php" class="black-text">Início</a></li>
-                            <li><a href="empresa.html" class="black-text">Empresa</a></li>
-                            <li><a href="nossasRealizacoes.html" class="black-text">Nossas Realizações</a></li>
+                            <li><a href="empresa.php" class="black-text">Empresa</a></li>
+                            <li><a href="nossasRealizacoes.php" class="black-text">Nossas Realizações</a></li>
                             <li><a href="voce.php" class="black-text">+Você</a></li>
-                            <li class="active"><a href="contato.html" class="black-text">Contato</a></li>
+                            <li class="active"><a href="contato.php" class="black-text">Contato</a></li>
                         </ul>
                         <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                     </div>
@@ -53,10 +53,10 @@
                 <h5 class="center">Contate-nos</h5>
                 <br/>
                 <p class="nossos-dados"><strong>Nossos dados</strong></p>
-                <p><strong>Telefones: </strong> (81) 9521-2354 | (83) 8613-1263 | (83) 8716-2070</p>
+                <p><strong>Telefones: </strong> (81) 99521-2354 | (83) 98613-1263 | (83) 98716-2070</p>
                 <p><strong>E-mail: </strong>joule@joule.eco.br</p>
                 <p><strong>Horário de Funcionamento: </strong>Segunda a sexta-feira, 07hs - 17hs</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.940258234763!2d-34.92137368521984!3d-8.107565894163267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1ef7c0e30963%3A0xb4ac2b7ce47ad72d!2sRua+Itaimb%C3%A9%2C+262+-+Ipsep%2C+Recife+-+PE%2C+51350-030!5e0!3m2!1spt-BR!2sbr!4v1518131731246" width="1150" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.940258234763!2d-34.92137368521984!3d-8.107565894163267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1ef7c0e30963%3A0xb4ac2b7ce47ad72d!2sRua+Itaimb%C3%A9%2C+262+-+Ipsep%2C+Recife+-+PE%2C+51350-030!5e0!3m2!1spt-BR!2sbr!4v1518131731246" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <br/>
                 <br/>
                 <div class="center">
@@ -87,12 +87,10 @@
 
         <footer class="page-footer gray">
             <div class="container">
-                <div class="row">
                 <div class="col s12 center">
                     <h5 class="white-text">Joule Energias</h5>
                     <p class="grey-text text-lighten-4">Energizando sua vida!</p>
                     <p>© 2018 Copyright Text</p>
-                </div>
                 </div>
             </div>
             <div class="footer-copyright">
