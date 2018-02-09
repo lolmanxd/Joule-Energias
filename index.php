@@ -23,21 +23,21 @@
             <div class="navbar-fixed">
                 <nav class="color-joule" role="navigation">
                     <div class="nav-wrapper container">
-                        <a href="home.php"><img class="logo-joule brand-logo" src="imgs/Joule_logo.png" alt="Joule Energias logo"></a>
+                        <a href="index.php"><img class="logo-joule brand-logo" src="imgs/Joule_logo.png" alt="Joule Energias logo"></a>
                         <ul class="right hide-on-med-and-down">
-                            <li class="active" ><a href="home.php" class="black-text">Início</a></li>
-                            <li><a href="empresa.html" class="black-text">Empresa</a></li>
-                            <li><a href="nossasRealizacoes.html" class="black-text">Nossas Realizações</a></li>
+                            <li class="active" ><a href="index.php" class="black-text">Início</a></li>
+                            <li><a href="empresa.php" class="black-text">Empresa</a></li>
+                            <li><a href="nossasRealizacoes.php" class="black-text">Nossas Realizações</a></li>
                             <li><a href="voce.php" class="black-text">+Você</a></li>
-                            <li><a href="contato.html" class="black-text">Contato</a></li>
+                            <li><a href="contato.php" class="black-text">Contato</a></li>
                         </ul>
                         
                         <ul id="nav-mobile" class="sidenav">
-                            <li class="active" ><a href="home.php" class="black-text">Início</a></li>
-                            <li><a href="empresa.html" class="black-text">Empresa</a></li>
-                            <li><a href="nossasRealizacoes.html" class="black-text">Nossas Realizações</a></li>
+                            <li class="active" ><a href="index.php" class="black-text">Início</a></li>
+                            <li><a href="empresa.php" class="black-text">Empresa</a></li>
+                            <li><a href="nossasRealizacoes.php" class="black-text">Nossas Realizações</a></li>
                             <li><a href="voce.php" class="black-text">+Você</a></li>
-                            <li><a href="contato.html" class="black-text">Contato</a></li>
+                            <li><a href="contato.php" class="black-text">Contato</a></li>
                         </ul>
                         <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                     </div>
