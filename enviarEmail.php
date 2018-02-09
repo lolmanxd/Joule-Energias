@@ -37,7 +37,7 @@ $arquivo= "<style type='text/css'>
   </html>
   ";
 
-$emailEnviar = "fabiio.mariiano@gmail.com";
+$emailEnviar = "joule@joule.eco.br";
 $destino = $emailEnviar;
 $assunto = "Orçamento Site Joule Energias";
 
@@ -47,10 +47,17 @@ $headers  = 'MIME-Version: 1.0' . "\r\n";
   //$headers .= "Bcc: $EmailPadrao\r\n";
 
 $enviarEmail = mail($destino, $assunto, $arquivo, $headers);
+?>
+<script>
+    alert("Email enviado com sucesso.");
+</script>
+
+<?php
+    
 }
 else{ ?>
 <script>
-    alert("Preencha os dados corretamente");
+    alert("Preencha os dados corretamente.");
 </script>
 <?php }
 }
