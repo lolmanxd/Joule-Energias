@@ -109,9 +109,8 @@
             </div>
 
         
-        <!-- FOOTER -->
-        
-        <footer class="page-footer gray">
+        <!-- FOOTER DESKTOP-->
+        <footer class="page-footer gray hide-on-med-and-down">
             <div class="container">
                 <div class="col s12 center">
                     <h5 class="white-text">Joule Energias</h5>
@@ -120,7 +119,22 @@
             </div>
             <div class="footer-copyright">
                 <div class="container center">
-                    Developed by <a class="link-footer" href="https://github.com/fabiiomariiano">FM</a> & <a class="link-footer" href="https://github.com/lolmanxd">MMR</a>
+                        Developed by <a class="link-footer" href="https://github.com/fabiiomariiano">FM</a> & <a class="link-footer" href="https://github.com/lolmanxd">MMR</a>
+                </div>
+            </div>
+        </footer>
+
+        <!-- FOOTER MOBILE-->
+        <footer class="page-footer-mobile gray hide-on-med-and-up">
+            <div class="container">
+                <div class="col s12 center">
+                    <h5 class="white-text">Joule Energias</h5>
+                    <p class="white-text text-lighten-4">Energizando sua vida! <spam  style="color: rgba(255, 255, 255, 0.8);">©2018 Todos os Direitos Reservados</spam></p>
+                </div>
+            </div>
+            <div class="footer-copyright">
+                <div class="container center">
+                        Developed by <a class="link-footer" href="https://github.com/fabiiomariiano">FM</a> & <a class="link-footer" href="https://github.com/lolmanxd">MMR</a>
                 </div>
             </div>
         </footer>

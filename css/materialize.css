@@ -2971,6 +2971,31 @@ ul.staggered-list li {
   background-color: rgba(51, 51, 51, 0.08);
 }
 
+.page-footer-mobile {
+  height: 7.8em;
+  color: #fff;
+  line-height: 1em;
+}
+
+.page-footer-mobile .footer-copyright {
+  overflow: hidden;
+  height: 2em;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(51, 51, 51, 0.08);
+}
+
 table, th, td {
   border: none;
 }
