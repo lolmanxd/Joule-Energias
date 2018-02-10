@@ -92,7 +92,7 @@
             <div class="s12 z-depth-2 my-card tablet white-card">
                 <div class="col s12 m4 l4 white-card">
                     <p><strong>Tipo:</strong> Solar</p>
-                    <p><strong>Cliente:</strong> Diretor-Executivo</p>
+                    <p><strong>Cliente:</strong> Joel Ferreira de Lima</p>
                     <p><strong>Geração mensal:</strong> 650kWh/mês</p>
                     <p><strong>Descrição:</strong> 
                         <p class="scroll"> 
@@ -116,7 +116,7 @@
             <div class="s12 z-depth-2 my-card mobile white-card">
                 <div class="col s12 white-card">
                     <p><strong>Tipo:</strong> Solar</p>
-                    <p><strong>Cliente:</strong> Diretor-Executivo</p>
+                    <p><strong>Cliente:</strong> Joel Ferreira de Lima</p>
                     <p><strong>Geração mensal:</strong> 650kWh/mês</p>
                     <p><strong>Descrição:</strong> 
                         <p class="scroll-mobile"> 

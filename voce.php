@@ -74,8 +74,8 @@
                     <div class="col s12 m4 l4 center">
                         <p>Envie agora suas informações</p>
                         <form action="voce.php" name="form_voce" method="post">
-                        <input type="text" name="consumoMensal" id="consumoMensal" placeholder="Informe seu consumo mensal">
-                        <input type="email" name="email" id="email" placeholder="Informe seu e-mail">
+                        <input type="text" name="consumoMensal" id="consumoMensal" placeholder="Média de consumo mensal (kWh)">
+                        <input type="email" name="email" id="email" placeholder="E-mail">
                         <input type="submit" name="enviar" class="waves-effect waves-light btn" value="Solicitar Orçamento">
                         </form>
                     </div>

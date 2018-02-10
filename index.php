@@ -53,12 +53,12 @@
 
         <!-- tablet -->
         <div class="center hide-on-large-only hide-on-small-only" style="width: 100%; height:45em;">
-            <img src="imgs/bg-home.jpeg" style="width: 100%; height: 45.5em; margin-top: 2%" alt="Image home">
+            <img src="imgs/bg-home.jpeg" style="width: 100%; height: 46.4em; margin-top: 2%" alt="Image home">
         </div>
 
         <!-- mobile -->
-        <div class="center hide-on-med-and-up" style="width: 100%; height:44.8em; margin-top:2.5%">
-            <img src="imgs/bg-home.jpeg" style="width: 100%; height: 45em; margin-top: 5%" alt="Image home">
+        <div class="center hide-on-med-and-up" style="width: 100%; height:35em; margin-top:2.5%">
+            <img src="imgs/bg-home.jpeg" style="width: 100%; height: 36.5em; margin-top: 5%" alt="Image home">
         </div>
         
         <br>
