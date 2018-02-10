@@ -49,7 +49,7 @@
         <!-- CONTENT -->
         <div class="parallax-container valign-wrapper" style=" height: 300px;">
             <div class="parallax"><img src="imgs/bg1.jpg" alt="Unsplashed background img 3"></div>
-            <p class="text-bg-voce container center">A energia que nos move até você é a sua satisfação</p>
+            <p class="text-bg-voce container center">A energia que nos move até você é a sua satisfação!</p>
             <div id="portfolio" ></div>
         </div>
 
@@ -113,8 +113,7 @@
             <div class="container">
                 <div class="col s12 center">
                     <h5 class="white-text">Joule Energias</h5>
-                    <p class="grey-text text-lighten-4">Energizando sua vida!</p>
-                    <p>© 2018 Copyright Text</p>
+                    <p class="white-text text-lighten-4">Energizando sua vida! <spam  style="color: rgba(255, 255, 255, 0.8);">©2018 Todos os Direitos Reservados</spam></p>
                 </div>
             </div>
             <div class="footer-copyright">
