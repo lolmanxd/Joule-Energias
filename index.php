@@ -58,7 +58,7 @@
 
         <!-- mobile -->
         <div class="center hide-on-med-and-up" style="width: 100%; height:35em; margin-top:2.5%">
-            <img src="imgs/bg-home.jpeg" style="width: 100%; height: 36.5em; margin-top: 5%" alt="Image home">
+            <img src="imgs/bg-home.jpeg" style="width: 100%; height: 36.3em; margin-top: 5%" alt="Image home">
         </div>
         
         <br>
