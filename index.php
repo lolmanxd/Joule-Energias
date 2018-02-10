@@ -64,11 +64,11 @@
         <br>
 
         <!-- FOOTER DESKTOP-->
-        <footer class="page-footer gray hide-on-med-and-down">
+        <footer class="footer-desktop gray hide-on-small-only">
             <div class="container">
                 <div class="col s12 center">
-                    <h5 class="white-text">Joule Energias</h5>
-                    <p class="white-text text-lighten-4">Energizando sua vida! <spam  style="color: rgba(255, 255, 255, 0.8);">©2018 Todos os Direitos Reservados</spam></p>
+                    <h5 class="white-text" style="font-weight: 500">Joule Energias - <span class="white-text text-lighten-4" style="font-size: 20px; font-weight: 400">Energizando sua vida!</span></h5>
+                    <p style="color: rgba(255, 255, 255, 0.8);">©2018 Todos os Direitos Reservados</p>
                 </div>
             </div>
             <div class="footer-copyright">
@@ -79,11 +79,11 @@
         </footer>
 
         <!-- FOOTER MOBILE-->
-        <footer class="page-footer-mobile gray hide-on-med-and-up">
+        <footer class="footer-mobile gray hide-on-med-and-up">
             <div class="container">
                 <div class="col s12 center">
-                    <h5 class="white-text">Joule Energias</h5>
-                    <p class="white-text text-lighten-4">Energizando sua vida! <spam  style="color: rgba(255, 255, 255, 0.8);">©2018 Todos os Direitos Reservados</spam></p>
+                    <h5 class="white-text" style="font-weight: 500">Joule Energias - <span class="white-text text-lighten-4" style="font-size: 20px; font-weight: 400">Energizando sua vida!</span></h5>
+                    <p style="color: rgba(255, 255, 255, 0.8);">©2018 Todos os Direitos Reservados</p>
                 </div>
             </div>
             <div class="footer-copyright">
