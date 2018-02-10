@@ -38,7 +38,7 @@
                             <li class="active"><a href="voce.php" class="black-text">+Você</a></li>
                             <li><a href="contato.php" class="black-text">Contato</a></li>
                         </ul>
-                        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><img style="padding-top:40%" src="imgs/menu.png" alt="icone menu"></a>
                     </div>
                 </nav>
             </div>
